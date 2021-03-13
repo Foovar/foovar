@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  📢 Hi, I'm <b>Alex Paredes</b>, a passionate self-taught software developer from Spain.
+  📢 Hi, I'm <b>Alex Paredes</b>, a passionate self-taught software developer from Perú.
 </p>
 
 <p align="center">
