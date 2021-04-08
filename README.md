@@ -31,7 +31,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
   ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache+Kafka&logoColor=white)
   ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON+Web+Tokens&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+  <!-- ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) -->
   ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2C8EBB?style=flat-square&logo=Kubernetes&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
