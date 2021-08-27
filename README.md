@@ -66,7 +66,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Everis
-- 🌱 I’m currently learning <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=Terraform&logoColor=white" />
+- 🌱 I’m currently learning <img alt="Aws" src="https://img.shields.io/badge/-Aws-ff9900?style=flat-square&logo=Amazon&logoColor=black" />
 - 👯 I have been a collaborator in XFSGAMES
 - 💬 Ask me about ... What ever...
 <!-- 
