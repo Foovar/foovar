@@ -26,7 +26,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-231F20?&logo=rust&logoColor=white)
 
 #### Technologies
- <!-- <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" /> -->
+ ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white)
  <!-- <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" /> -->
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
   ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache+Kafka&logoColor=white)
@@ -49,6 +49,7 @@
   ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
   ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
   ![Helm](https://img.shields.io/badge/-Helm-fff?style=flat&logo=helm&logoColor=blue)
+  ![AWS](https://img.shields.io/badge/-Aws-ff9900?style=flat-square&logo=Amazon&logoColor=black")
   
 #### Databases
   ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
@@ -66,7 +67,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Everis
-- 🌱 I’m currently learning <img alt="Aws" src="https://img.shields.io/badge/-Aws-ff9900?style=flat-square&logo=Amazon&logoColor=black" />
+- 🌱 I’m currently learning <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=Azure&logoColor=black" />
 - 👯 I have been a collaborator in XFSGAMES
 - 💬 Ask me about ... What ever...
 <!-- 
