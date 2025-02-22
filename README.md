@@ -1,78 +1,30 @@
-<h1 align="center">
-  Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></a> I'm Alex 👨‍💻 <a href="#"><img src="https://badges.pufler.dev/visits/foovar/foovar"></a>
-</h1>
+![👋 Hi, my name is Alex](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<p align="center">
-  📢 Hi, I'm <b>Alex Paredes</b>, a passionate self-taught software developer from Perú.
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Foovar&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center">
-  <a href="mailto:aparedese.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aparedese.dev@gmail.com"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/xalexparedes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/xalexparedes"/></a>
-</p>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Alex
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-#### Languages
-<!-- ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue) -->
-<!-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) -->
-<!-- ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue) -->
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
-![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
-![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=Go&logoColor=white)
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) -->
-<!-- ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) -->
-<!-- ![Rust](https://img.shields.io/badge/-Rust-231F20?&logo=rust&logoColor=white) -->
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://www.linkedin.com/in/xalexparedes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/_alexx.pe" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-#### Technologies
- <!-- <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" /> -->
-  <!-- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache+Kafka&logoColor=white) -->
-  <!-- ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON+Web+Tokens&logoColor=white) -->
-  <!-- ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) -->
-  ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2C8EBB?style=flat-square&logo=Kubernetes&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=Terraform&logoColor=white)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-  ![Helm](https://img.shields.io/badge/-Helm-fff?style=flat&logo=helm&logoColor=blue)
-  ![AWS](https://img.shields.io/badge/-Aws-ff9900?style=flat-square&logo=Amazon&logoColor=black")
-  <!-- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) -->
-  <!-- ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white) -->
-  <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white) -->
-  <!-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ+IDEA&logoColor=white) -->
-  <!-- ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white) -->
-  <!-- ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white) -->
-  <!-- ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white) -->
-  <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C) -->
-  <!-- ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue) -->
-  <!-- ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black) -->
-  
-#### Databases
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
-  ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
-  
-<!-- ### Hi there 👋 -->
+ **<h3 align="center">🚀  Senior DevOps & Software Engineer | Cloud | Automation | CI/CD | SRE
+Optimizing infrastructure, automating everything, and building reliable systems. 💡☁️</h3>**
 
-<!--
-**Foovar/foovar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+**<h3 align="left">Rapid Fire</h3>**
 
-- 🔭 I’m currently working on Baufest
-- 🌱 I’m currently learning <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=Azure&logoColor=black" />
-- 👯 I have been a collaborator in XFSGAMES
-- 💬 Ask me about ... What ever...
-<!-- 
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- 💼 I'm currently working on: **DevOps at Babufest 🚀**
+- 🌱 I'm currently learning: **AI, RAG, AI Agents 🤖**
+- 💬 Ask me about: **Go, JavaScript, Cloud... or just ask me anything to break the ice!**
+- ⚡ Fun fact: **I used to develop tools for classic games and collaborated on XFSGames**
 
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="32" alt="C++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Groovy-4298B8?logo=groovy&logoColor=white" height="32" alt="Groovy" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" height="32" alt="Svelte" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Fiber-00A8E8?logo=fiber&logoColor=white" height="32" alt="Fiber" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="32" alt="Vim" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="32" alt="Kubernetes" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" height="32" alt="Terraform" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="32" alt="Amazon AWS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white" height="32" alt="Azure DevOps" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 4px"></div>
