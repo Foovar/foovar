@@ -20,8 +20,8 @@ Optimizing infrastructure, automating everything, and building reliable systems.
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **DevOps at Babufest 🚀**
-- 🌱 I'm currently learning: **AI, RAG, AI Agents 🤖**
+- 💼 I'm currently working on: **DevOps at CleverITGroup 🚀**
+- 🌱 I'm currently learning: **AI, RAG, MCP, AI Agents 🤖**
 - 💬 Ask me about: **Go, JavaScript, Cloud... or just ask me anything to break the ice!**
 - ⚡ Fun fact: **I used to develop tools for classic games and collaborated on XFSGames**
 
