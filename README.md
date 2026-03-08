@@ -19,12 +19,11 @@
   <a href="https://t.me/alexx_pe" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
- **<h3 align="center">🚀  Senior DevOps & Software Engineer | Cloud | Automation | CI/CD | SRE
-Optimizing infrastructure, automating everything, and building reliable systems. 💡☁️</h3>**
+ **<h3 align="center">🚀  SRE / DevOps Engineer passionate about building reliable systems, automating infrastructure, and exploring software internals. 💡☁️</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **DevOps at CleverITGroup 🚀**
+- 💼 I'm currently working on: **SRE/DevOps at CleverITGroup 🚀**
 - 🌱 I'm currently learning: **AI, RAG, MCP, AI Agents 🤖**
 - 💬 Ask me about: **Go, JavaScript, Cloud... or just ask me anything to break the ice!**
 - ⚡ Fun fact: **I used to develop tools for classic games and collaborated on XFSGames**
